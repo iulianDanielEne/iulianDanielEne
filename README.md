@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iulianDanielEne
 - 👀 I’m interested in game creation, concepts, ideas and visuals
 - 🌱 I’m currently learning to code and solve technical aspects in games ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on creating games to publish on mobiles and Steam
 - 📫 How to reach me caligar_230@yahoo.com
 
 <!---
